@@ -14,8 +14,8 @@ hooks, MCP servers and review gates. I own the architecture and quality; agents 
 | Cattle-farm platform (M.Sc. thesis) | 4 Spring Boot microservices: ingestion, anomaly detection, simulation, UI | by hand |
 | SimCattle | Polyglot microservices (Python, Go, JS) behind a gateway, with Kubernetes manifests | by hand |
 | Cashflow Atlas | Spring Boot 3 / Java 21 finance platform: live portfolio, backtesting, Prometheus/Grafana | AI-assisted |
-| Code Atlas | Terminal code editor in Rust: tree-sitter, custom LSP client, git review | AI-assisted |
-| Little Bamberg | 3D browser game: a streamed map of Germany with 17 real cities (three.js, cannon-es) | AI-assisted |
+| [Code Atlas](https://github.com/kevin123george/code-atlas) | Terminal code editor in Rust: tree-sitter, custom LSP client, git review | AI-assisted |
+| [Little Bamberg](https://github.com/kevin123george/little-bamberg) | 3D browser game: a streamed map of Germany with 17 real cities (three.js, cannon-es) | AI-assisted |
 | Home lab | 10+ self-hosted services: Docker, Tailscale, Prometheus, Grafana, Forgejo | AI-assisted |
 
 Most of this lives on my self-hosted Forgejo; public pieces are pinned below.

@@ -23,4 +23,4 @@ Most of this lives on my self-hosted Forgejo; public pieces are pinned below.
 **Stack:** Java · Spring Boot · Python · TypeScript · Rust · PostgreSQL · Redis · Pub/Sub · SQS ·
 Docker · Kubernetes · AWS · GCP
 
-[LinkedIn](https://www.linkedin.com/in/kevin-george123)
+[Website and resume](https://kevin123george.github.io) · [LinkedIn](https://www.linkedin.com/in/kevin-george123)
